@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">T3</string>
+    <string name="login_label">Log in with Twitter</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="string_twitter">Twitter</string>
+
+</resources>
